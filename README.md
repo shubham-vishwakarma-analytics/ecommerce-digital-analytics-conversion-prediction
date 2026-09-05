@@ -47,6 +47,7 @@ All project visuals are included below. The gallery intentionally appears near t
 | ![Conversion Rate By Device Python Visualization](screenshots/Conversion_rate_by_device_Python_Visualization.png) | ![Customer Order Frequency By Sql](screenshots/customer_order_frequency_By_SQL.png) |
 |---|---|
 | ![Device Analysis Python Code](screenshots/Device_Analysis_Python_code.png) | ![Er Diagram](screenshots/ER-Diagram.png) |
+
  ![Gross Profit By Product Python Visualization](screenshots/Gross_Profit_by_Product_Python_Visualization.png) |
 
 | ![Gross Profit Trend Pthon Visualization](screenshots/Gross_Profit_Trend_Pthon_Visualization.png) | ![Key Business Findings Python Code](screenshots/Key_Business_Findings_Python_code.png) |
