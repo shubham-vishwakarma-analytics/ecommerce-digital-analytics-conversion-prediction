@@ -62,7 +62,7 @@ All project visuals are included below. The gallery intentionally appears near t
 | ![Refund By Product By Sql](screenshots/Refund_by_product_By_SQL.png) | ![Refund Rate By Device Python Visualization](screenshots/Refund_Rate_By_device_Python_Visualization.png) |
 |---|---|
 | ![Repeat Vs New Session Python Code](screenshots/Repeat_vs_New_Session_Python_code.png) | ![Revenue By Product Python Visualization](screenshots/Revenue_By_Product_Python_Visualization.png) |
-|---|---|
+
 | ![Sales & Profitability](screenshots/Sales&Profitability.png) | ![Session By Deivce Python Visualization](screenshots/Session_by_Deivce_Python_Visualization.png) |
 |---|---|
 | ![Session By Marketing Source Python Visualization](screenshots/Session_BY_Marketing_Source__Python_Visualization.png) | ![Sql Kpi](screenshots/SQL_KPI.png) |
