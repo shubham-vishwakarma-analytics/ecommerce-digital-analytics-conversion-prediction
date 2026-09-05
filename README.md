@@ -68,7 +68,8 @@ All project visuals are included below. The gallery intentionally appears near t
 | ![Session By Marketing Source Python Visualization](screenshots/Session_BY_Marketing_Source__Python_Visualization.png) | ![Sql Kpi](screenshots/SQL_KPI.png) |
 |---|---|
 | ![Sql Kpis](screenshots/SQL_KPIs.png) | ![Table Inventory Row Count By Sql](screenshots/Table_Inventory_Row_Count_By_SQL.png) |
-|---|---|
+
+
 ![Train Test Spiliting And Preprocessing Python Code](screenshots/Train_test_spiliting_and_preprocessing_python_code.png)
 
 
