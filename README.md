@@ -50,11 +50,16 @@ All project visuals are included below. The gallery intentionally appears near t
 | ![Executive Overview](screenshots/Executive-Overview.png) | ![Gross Profit By Product Python Visualization](screenshots/Gross_Profit_by_Product_Python_Visualization.png) |
 
 | ![Gross Profit Trend Pthon Visualization](screenshots/Gross_Profit_Trend_Pthon_Visualization.png) | ![Key Business Findings Python Code](screenshots/Key_Business_Findings_Python_code.png) |
-|---|---|
+
+
 | ![Maketing & Sessions](screenshots/Maketing&Sessions.png) | ![Marketing Analysis Python Code](screenshots/Marketing_Analysis_Python_Code.png) |
-|---|---|
-| ![Model Prediction](screenshots/Model_prediction.png) | ![Order By Year Python Visualization](screenshots/Order_By_Year_Python_Visualization.png) |
-|---|---|
+
+
+| ![Model Prediction](screenshots/Model_prediction.png) |
+
+![Order By Year Python Visualization](screenshots/Order_By_Year_Python_Visualization.png) |
+
+
 | ![Products & Refunds](screenshots/Products&Refunds.png) | ![Product Analysis Python Code](screenshots/Product_Analysis_Python_code.png) |
 |---|---|
 | ![Produt Sales Profit Margin By Sql](screenshots/Produt_sales_profit_margin__By_SQL.png) | ![Refund Analysis Python Code](screenshots/Refund_Analysis_Python_Code.png) |
