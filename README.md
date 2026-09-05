@@ -69,8 +69,7 @@ All project visuals are included below. The gallery intentionally appears near t
 |---|---|
 | ![Sql Kpis](screenshots/SQL_KPIs.png) | ![Table Inventory Row Count By Sql](screenshots/Table_Inventory_Row_Count_By_SQL.png) |
 |---|---|
-| ![Train Test Spiliting And Preprocessing Python Code](screenshots/Train_test_spiliting_and_preprocessing_python_code.png) |  |
-|---|---|
+| ![Train Test Spiliting And Preprocessing Python Code](screenshots/Train_test_spiliting_and_preprocessing_python_code.png) |
 
 ---
 
