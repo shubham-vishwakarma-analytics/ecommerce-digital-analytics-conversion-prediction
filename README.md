@@ -9,7 +9,7 @@
 
 ---
 
-## 📊 Project at a Glance
+##  Project at a Glance
 
 This project transforms raw e-commerce data into validated KPIs, business insights, interactive dashboards, and a first-pass machine-learning model for session conversion prediction.
 
@@ -37,7 +37,7 @@ This project transforms raw e-commerce data into validated KPIs, business insigh
 
 ---
 
-## 🖼️ Project Visual Gallery
+##  Project Visual Gallery
 
 All project visuals are included below. The gallery intentionally appears near the beginning so a recruiter or reviewer can understand the project visually before reading the detailed methodology.
 
@@ -51,11 +51,11 @@ All project visuals are included below. The gallery intentionally appears near t
 |---|---|
 | ![Gross Profit Trend Pthon Visualization](screenshots/Gross_Profit_Trend_Pthon_Visualization.png) | ![Key Business Findings Python Code](screenshots/Key_Business_Findings_Python_code.png) |
 |---|---|
-| ![Maketing & Sessions](screenshots/Maketing & Sessions.png) | ![Marketing Analysis Python Code](screenshots/Marketing_Analysis_Python_Code.png) |
+| ![Maketing & Sessions](screenshots/Maketing&Sessions.png) | ![Marketing Analysis Python Code](screenshots/Marketing_Analysis_Python_Code.png) |
 |---|---|
 | ![Model Prediction](screenshots/Model_prediction.png) | ![Order By Year Python Visualization](screenshots/Order_By_Year_Python_Visualization.png) |
 |---|---|
-| ![Products & Refunds](screenshots/Products & Refunds.png) | ![Product Analysis Python Code](screenshots/Product_Analysis_Python_code.png) |
+| ![Products & Refunds](screenshots/Products&Refunds.png) | ![Product Analysis Python Code](screenshots/Product_Analysis_Python_code.png) |
 |---|---|
 | ![Produt Sales Profit Margin By Sql](screenshots/Produt_sales_profit_margin__By_SQL.png) | ![Refund Analysis Python Code](screenshots/Refund_Analysis_Python_Code.png) |
 |---|---|
@@ -63,13 +63,13 @@ All project visuals are included below. The gallery intentionally appears near t
 |---|---|
 | ![Repeat Vs New Session Python Code](screenshots/Repeat_vs_New_Session_Python_code.png) | ![Revenue By Product Python Visualization](screenshots/Revenue_By_Product_Python_Visualization.png) |
 |---|---|
-| ![Sales & Profitability](screenshots/Sales & Profitability.png) | ![Session By Deivce Python Visualization](screenshots/Session_by_Deivce_Python_Visualization.png) |
+| ![Sales & Profitability](screenshots/Sales&Profitability.png) | ![Session By Deivce Python Visualization](screenshots/Session_by_Deivce_Python_Visualization.png) |
 |---|---|
 | ![Session By Marketing Source Python Visualization](screenshots/Session_BY_Marketing_Source__Python_Visualization.png) | ![Sql Kpi](screenshots/SQL_KPI.png) |
 |---|---|
 | ![Sql Kpis](screenshots/SQL_KPIs.png) | ![Table Inventory Row Count By Sql](screenshots/Table_Inventory_Row_Count_By_SQL.png) |
 |---|---|
-| ![Train Test Spiliting And Preprocessing Python Code](screenshots/Train_test_spiliting_and _preprocessing_python_code.png) |  |
+| ![Train Test Spiliting And Preprocessing Python Code](screenshots/Train_test_spiliting_and_preprocessing_python_code.png) |  |
 |---|---|
 
 ---
@@ -580,6 +580,3 @@ The Logistic Regression model provides some useful signal, but its current perfo
 **Shubham Vishwakarma**  
 **Data Analyst | SQL | Python | Power BI | Machine Learning**
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
