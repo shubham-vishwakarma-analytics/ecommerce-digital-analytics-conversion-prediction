@@ -1,6 +1,6 @@
 # E-Commerce Product Analytics & Conversion Prediction
 
-> **End-to-end SQL Server + Python + Machine Learning + Power BI analytics project**
+> **End-to-end SQL Server + Python + Machine Learning + Power BI analytics project** 
 
 ![Project Analytics](screenshots/business_reconmedation.png)
 
