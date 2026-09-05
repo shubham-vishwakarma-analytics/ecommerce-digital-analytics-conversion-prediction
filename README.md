@@ -41,7 +41,7 @@ This project transforms raw e-commerce data into validated KPIs, business insigh
 
 All project visuals are included below. The gallery intentionally appears near the beginning so a recruiter or reviewer can understand the project visually before reading the detailed methodology.
 
-| ![Business Reconmedation](screenshots/business_reconmedation.png) | ![Conversiongap By Device And Repeat Status](screenshots/conversiongap_by_device_and _repeat_status.png) |
+| ![Business Reconmedation](screenshots/business_reconmedation.png) | ![Conversiongap By Device And Repeat Status](screenshots/conversiongap_by_device_and_repeat_status.png) |
 |---|---|
 | ![Conversion Rate By Device Python Visualization](screenshots/Conversion_rate_by_device_Python_Visualization.png) | ![Customer Order Frequency By Sql](screenshots/customer_order_frequency_By_SQL.png) |
 |---|---|
