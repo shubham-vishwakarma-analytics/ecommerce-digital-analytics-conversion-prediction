@@ -71,7 +71,6 @@ All project visuals are included below. The gallery intentionally appears near t
 |---|---|
 | ![Train Test Spiliting And Preprocessing Python Code](screenshots/Train_test_spiliting_and_preprocessing_python_code.png) |
 
----
 
 ## 1. Business Problem
 
